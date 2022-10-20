@@ -1,0 +1,14 @@
+{
+  "hash": "107a1914788b9a294e4978f7e808c576",
+  "result": {
+    "markdown": "---\ntitle: \"The Science of Money\"\nauthor: \"Ngoni Matereke\"\ndate: \"2022-10-17\"\ncategories: [Investing]\nimage: \"image.jpg\"\n#draft: true\n---\n\n\nLets talk about how you can save money!\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

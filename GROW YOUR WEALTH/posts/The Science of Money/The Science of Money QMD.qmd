@@ -1,0 +1,7 @@
+---
+title: "The habit of Saving"
+author: [Tarisai, Ngoni]
+date: "2022-10-19"
+categories: [Saving , Investing , Spending]
+image: "image3.jpg"
+---

@@ -1,0 +1,14 @@
+---
+title: "The Science of Money"
+author: "Ngoni Matereke"
+date: "2022-10-17"
+categories: [Investing]
+image: "image.jpg"
+#draft: true
+---
+
+Lets talk about how you can save money!
+
+```{r}
+1 + 1
+```

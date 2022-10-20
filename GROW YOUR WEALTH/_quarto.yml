@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Everything About Money"
+  navbar:
+    background: "#FFD700"
+    right:
+      - Key to Financial Freedom
+      - icon: linkedin
+        href: ttps://linkedin.com
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+
+editor: source
+
